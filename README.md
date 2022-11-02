@@ -41,8 +41,7 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 
 ### Table of Content
 1. [Introduction](#introduction)
-2. [Screenshots](#screenshots)
-3. [Instructions](#instructions)
+2. [Instructions](#instructions)
    1. [Requirements](#requirements)
    2. [Execution](#execution)
    3. [Website](#website)
@@ -55,12 +54,6 @@ In this project, you can do the following:
 3. View all students in a particular Department
 4. Upadte mobile number.
 5. Delete a specific student record.
-
-
-## Screenshots
-![Index](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/Indexss.png)
-![Update](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/updatess.png))
-![Dashboard](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/Dashboardss.png)
 
 
 ## Instructions
