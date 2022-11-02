@@ -59,8 +59,7 @@ In this project, you can do the following:
 
 ## Screenshots
 ![Index](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/Indexss.png)
-![Update](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/updatess.png)
-![Database](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/DBss.png)
+![Update](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/updatess.png))
 ![Dashboard](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/Dashboardss.png)
 
 
