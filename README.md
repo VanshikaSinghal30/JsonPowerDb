@@ -22,17 +22,17 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 ---
 
 ### Release History
-#### v0.0.0 (27/02/2021)
+#### v0.0.0 (02/11/2022)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 ---
-#### v0.1.0 (28/02/2021)
+#### v0.1.0 (02/11/2022)
 ##### Enhancements:
 - [#2] Designed all HTML pages
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Tested all pages
 ---
-#### v0.1.1 (01/03/2021)
+#### v0.1.1 (02/11/2022)
 ##### Enhancements:
 - [#5] Added a README.md file
 - [#6] Few CSS changes
@@ -58,9 +58,9 @@ In this project, you can do the following:
 
 
 ## Screenshots
-![Index](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/Indexss.png)
-![Update](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/updatess.png))
-![Dashboard](https://github.com/sohamsalkar/JSONpowerDB_L2X/blob/main/Screenshots/Dashboardss.png)
+![Index](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/Indexss.png)
+![Update](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/updatess.png))
+![Dashboard](https://github.com/JSONpowerDB_L2X/blob/main/Screenshots/Dashboardss.png)
 
 
 ## Instructions
